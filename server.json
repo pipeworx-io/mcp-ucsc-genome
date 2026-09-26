@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ucsc-genome",
   "title": "Ucsc Genome",
   "description": "UCSC Genome Browser REST API — reference genome assemblies for ~250 species, the annotation tracks…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ucsc-genome",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ucsc-genome",

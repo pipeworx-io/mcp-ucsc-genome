@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ucsc-genome",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "UCSC Genome Browser REST API — reference genome assemblies for ~250 species, the annotation tracks on each (genes, variants, conservation, regulation), the rows of any track over a region, and raw DNA sequence. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-79733ec5f492f9c3019fbf0abed7ca23e0551bb65f74e92b5398001f5110d577",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-1dc5390baf938d9914d60e467cd386770d4c09e8a9dffe42830f6cdc098e0e00",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
